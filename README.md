@@ -21,6 +21,8 @@ I tried to create an interesting composition by simulating the reaction diffusio
 <img src="Images/2021_10_06_ Reaction Diffusion3.png" width = 1024 >
 <img src="Images/Node Tree.png"  >
 
+---
+
 <p align="center">
    I share my personal projects for free with everyone.
 </p> 
